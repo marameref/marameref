@@ -49,9 +49,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/amarameref"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/amarameref" /></a></p><br><br>
 <br>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marameref&show_icons=true&locale=en&layout=compact" alt="marameref" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marameref&show_icons=true&locale=en" alt="marameref" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marameref&" alt="marameref" /></p>
