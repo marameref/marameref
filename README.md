@@ -55,12 +55,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marameref&" alt="marameref" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marameref&" alt="marameref" /></p>
 
