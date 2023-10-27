@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Azure Devops, Python and C Projects**
 
-- 🤝 I’m looking for help with **Python and C**
-
 - 👨‍💻 All of my projects are available at [https://github.com/marameref](https://github.com/marameref)
 
 - 📝 I regularly write articles on [https://medium.com/@marameref](https://medium.com/@marameref)
