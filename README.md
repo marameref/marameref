@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Amarachi Crystal Omereife is a talented software engineer with expertise in Python, MLOps, JavaScript, and backend development.
+Omo Ike is a talented software engineer with expertise in Python, MLOps, JavaScript, and backend development.
             
 
 ### Streetcred:
