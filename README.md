@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Omo Ike is a talented software engineer with expertise in Python, MLOps, JavaScript, and backend development.
+Amarachi Omereife is a talented DevOps/MLOPS Engineer with expertise in Python, Docker, Kubernetes, Bash, powershell, etc and backend development.
             
 
 ### Streetcred:
