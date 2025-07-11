@@ -21,7 +21,7 @@ Omo Ike is a talented software engineer with expertise in Python, MLOps, JavaScr
 
 ### Links:
 
-### <a href="https://www.klinkedin.com/in/amarachi-crystal-omereife-416a081a1/">linkedin</a> | <a href="https://www.tublian.com/profile/marameref">journal</a> | <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC2fNk0OojBTn--EQvgaUKeQ">youtube</a> | <a href="https://www.github.com/marameref">github</a> | <a href="">linkedin</a>
+### <a href="https://www.linkedin.com/in/amarachi-crystal-omereife-416a081a1/">linkedin</a> | <a href="https://www.tublian.com/profile/marameref">journal</a> | <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC2fNk0OojBTn--EQvgaUKeQ">youtube</a> | <a href="https://www.github.com/marameref">github</a> | <a href="">linkedin</a>
 
 ## 👇 Few things about me
 
@@ -41,7 +41,7 @@ Omo Ike is a talented software engineer with expertise in Python, MLOps, JavaScr
 <div>
 <div id="pinned-card">
 
-### <a href="https://kmedium.com/@marameref" target="_blank">Amara Crystal Omereife – Medium</a>
+### <a href="https://medium.com/@marameref" target="_blank">Amara Crystal Omereife – Medium</a>
 *Read writing from Amara Crystal Omereife on Medium. I am a: Technical Recruiter, Software & Cloud Engineer . I aim to empower the world with high value solutions!.*
 
 <a href="https://medium.com/@marameref" target="_blank">
@@ -57,7 +57,7 @@ Omo Ike is a talented software engineer with expertise in Python, MLOps, JavaScr
 <div>
 <div id="pinned-card">
 
-### <a href="https://kmedium.com/@marameref/day-4-of-100daysofcode-embracing-randomness-and-conquering-lists-in-python-ba18fe10ce48" target="_blank">Day 4 of #100DaysOfCode: Embracing Randomness and Conquering Lists in Python</a>
+### <a href="https://medium.com/@marameref/day-4-of-100daysofcode-embracing-randomness-and-conquering-lists-in-python-ba18fe10ce48" target="_blank">Day 4 of #100DaysOfCode: Embracing Randomness and Conquering Lists in Python</a>
 *Hello, fellow coders! It’s Day 4 of my #100DaysOfCode journey, and I’m thrilled to share my adventures in Python programming with you. Today, I delved into the fascinating world of randomization and…*
 
 <a href="https://medium.com/@marameref/day-4-of-100daysofcode-embracing-randomness-and-conquering-lists-in-python-ba18fe10ce48" target="_blank">
