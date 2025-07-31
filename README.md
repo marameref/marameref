@@ -1,73 +1,104 @@
+# 🚀 Amarachi Crystal Omereife (C.Eng)
 
-# Hello there! 👋
+🌍 Nigeria | 📧 amarachiomereife@gmail.com | 📱 +234 806 859 0823  
+🔗 [LinkedIn](https://www.linkedin.com/in/amarachi-crystal-omereife-416a081a1/) | [GitHub](https://github.com/marameref) | [Twitter](https://x.com/marameref) | [Medium Blog](https://medium.com/@marameref)
 
+---
 
-### Bio:
+## 👩🏽‍💻 About Me
 
-Amarachi Omereife is a talented DevOps/MLOPS Engineer with expertise in Python, Docker, Kubernetes, Bash, powershell, etc and backend development.
-            
+Versatile and impact-driven **Data Engineer**, with solid experience as a **DevOps** and **MLOps Engineer**. I design, build, and optimize data infrastructure and pipelines that power analytics, applications, and AI systems in production. With 5+ years of hands-on experience, I specialize in delivering reliable, secure, and automated data and deployment workflows across **AWS**, **Azure**, and hybrid environments.
 
-### Streetcred:
+My work lies at the intersection of **data infrastructure**, **pipeline automation**, and **cloud-native engineering**, ensuring that data is accessible, trustworthy, and actionable—at scale.
 
-<a href="https://www.tublian.com/profile/marameref?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/marameref?type=without_score"></a>
+---
 
-### My Stack:
+## 🧰 Core Competencies
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MLOps"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JavaScript"/>
+- 🛠️ **Data Engineering:** Data pipelines, ETL/ELT workflows, PostgreSQL, Redis, Pandas, Numpy
+- 💾 **Databases:** SQL (Advanced Joins, Window Functions), PostgreSQL, Redis, MySQL
+- 🧪 **Data Pipeline Automation:** GitHub Actions, Python ETL scripts, Apache Airflow (learning)
+- ☁️ **Cloud Platforms:** AWS (EC2, S3, CloudWatch), Azure (VMs, Storage, App Services)
+- ⚙️ **DevOps & Automation:** GitHub Actions, Azure DevOps, Jenkins, Bash, Terraform, ARM Templates
+- 🧠 **MLOps:** Model deployment pipelines, automated testing (pytest), monitoring (CloudWatch)
+- 🐳 **Containers:** Docker, Kubernetes
+- 📈 **Monitoring & Logging:** CloudWatch, Azure Monitor
+- 📓 **Documentation:** Onboarding guides, CI/CD playbooks, pipeline architecture
 
-### 
+---
 
-### 
+## 📍 Work Experience
 
-### Links:
+### 🔧 Data Engineer & MLOps – *Tublian*  
+📅 *Sept 2023 – Present*
 
-### <a href="https://www.linkedin.com/in/amarachi-crystal-omereife-416a081a1/">linkedin</a> | <a href="https://www.tublian.com/profile/marameref">journal</a> | <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC2fNk0OojBTn--EQvgaUKeQ">youtube</a> | <a href="https://www.github.com/marameref">github</a> | <a href="">linkedin</a>
+- Built scalable data pipelines using Redis, Python, and GitHub Actions for recommendation engines and chatbot usage data.
+- Designed automated CI/CD pipelines for ML and backend services using Docker and GitHub Actions.
+- Maintained infrastructure logs and monitoring with CloudWatch and in-house observability dashboards.
+- Led development of internal documentation for CI/CD, pipeline architecture, and team onboarding.
 
-## 👇 Few things about me
+### 🏗️ Data & DevOps Engineer – *HASOB – TETFUND LMS & TERRAS Project*  
+📅 *Sept 2020 – Aug 2023*
 
+- Engineered automated data workflows to ingest, clean, and store LMS content on Azure Blob Storage.
+- Developed PostgreSQL-based data schemas and ensured daily backup/recovery pipelines.
+- Managed scalable Azure infrastructure for applications, supporting CI/CD and IaC with ARM Templates.
+- Built secure and monitored environments using Azure Monitor and audit logging.
 
-<div>
+---
 
-            
-</div>
+## 🏆 Certifications
 
+- 📜 **Microsoft Certified: Azure Developer Associate** *(2023)*
+- ☁️ **AWS Certified Cloud Practitioner** *(2022)*
+- 🐍 **Certified Python Backend Engineer – ALX Africa** *(2023)*
+- 📊 **Google Project Management Professional** *(2021)*
+- 🛠️ **Google IT Support Professional** *(2021)*
+- ⚙️ **Certified Quality Director** – ACI  
+- 🧬 **Certified Six Sigma Black Belt**
 
+---
 
+## 📈 Technical Training (DataCamp)
 
-## 📌 Pinned
+- 🧪 **Data Analyst with SQL** *(30+ hrs)*  
+  *Joins, Subqueries, Window Functions, Aggregation, Query Optimization*
+- 🐍 **Data Engineer with Python** *(60+ hrs)*  
+  *ETL Pipelines, Data Wrangling, PostgreSQL, Pandas, Python Optimization*
 
-<div>
+---
 
-<div>
-<div id="pinned-card">
+## 🧩 Projects
 
-### <a href="https://medium.com/@marameref" target="_blank">Amara Crystal Omereife – Medium</a>
-*Read writing from Amara Crystal Omereife on Medium. I am a: Technical Recruiter, Software & Cloud Engineer . I aim to empower the world with high value solutions!.*
+| Project                          | Description |
+|----------------------------------|-------------|
+| 🧠 **Tublian Data Pipelines**   | Redis-based data extraction, transformation, and loading with automated CI pipelines |
+| 🎓 **TETFUND LMS Infrastructure** | Designed Azure-backed data systems for learning content, supporting clean data ingestion |
+| 📊 **ETL Monitoring Dashboard** | Developed CI/CD + logging system to track pipeline jobs and data transformation failures |
 
-<a href="https://medium.com/@marameref" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:2400/1*qKwbEQZtHwyj3pQhv-pFig.png" width="400px">
-</a>
-</div>
-                  
+---
 
-<br/>
+## 👥 Community & Leadership
 
+### 💡 Technical Channel Lead (DevOps) — *SheCode Africa*  
+📆 *Jan 2024 – Present*
 
+- Mentored 50+ women engineers in DevOps and data infrastructure tooling.
+- Led workshops and AMA sessions on CI/CD and automation workflows.
 
-<div>
-<div id="pinned-card">
+### 👩🏽‍⚖️ President — *Catholic Women Organization (CWO), Abuja*  
+📆 *Mar 2022 – Present*
 
-### <a href="https://medium.com/@marameref/day-4-of-100daysofcode-embracing-randomness-and-conquering-lists-in-python-ba18fe10ce48" target="_blank">Day 4 of #100DaysOfCode: Embracing Randomness and Conquering Lists in Python</a>
-*Hello, fellow coders! It’s Day 4 of my #100DaysOfCode journey, and I’m thrilled to share my adventures in Python programming with you. Today, I delved into the fascinating world of randomization and…*
+- Introduced Python-Excel automation for chapter finances.
+- Digitized and structured chapter operations through standardized policy and planning documents.
 
-<a href="https://medium.com/@marameref/day-4-of-100daysofcode-embracing-randomness-and-conquering-lists-in-python-ba18fe10ce48" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:1200/0*uk8lYGta7jxoBFWH" width="400px">
-</a>
-</div>
-                  
-</div>
-            
+---
 
-<p align="center">
-<i>Generated by <a href="https://www.tublian.com/"><img src="https://tublian-newsletter-assets.s3.amazonaws.com/just-logo.png" width="25" style="vertical-align: middle"/></i>
-</p>
+## 📫 Let’s Connect
+
+💬 Ask me about **data engineering**, **DevOps**, **CI/CD**, or how to balance engineering with leadership and community work.
+
+> “Reliable data and infrastructure is the foundation for every great product—and I build both with clarity, care, and code.”
+
+---
+
