@@ -84,7 +84,7 @@ My work lies at the intersection of **data infrastructure**, **pipeline automati
 ### 💡 Technical Channel Lead (DevOps) — *SheCode Africa*  
 📆 *Jan 2024 – Present*
 
-- Mentored 50+ women engineers in DevOps and data infrastructure tooling.
+- Mentored 1450+ women engineers in DevOps and data infrastructure tooling.
 - Led workshops and AMA sessions on CI/CD and automation workflows.
 
 ### 👩🏽‍⚖️ President — *Catholic Women Organization (CWO), Abuja*  
