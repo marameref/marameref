@@ -49,12 +49,13 @@ My work lies at the intersection of **data infrastructure**, **pipeline automati
 
 ## 🏆 Certifications
 
+- 🧵 **KCNA: Kubernetes and Cloud Native Associate** *(2025)*
 - 📜 **Microsoft Certified: Azure Developer Associate** *(2023)*
 - ☁️ **AWS Certified Cloud Practitioner** *(2022)*
 - 🐍 **Certified Python Backend Engineer – ALX Africa** *(2023)*
 - 📊 **Google Project Management Professional** *(2021)*
 - 🛠️ **Google IT Support Professional** *(2021)*
-- ⚙️ **Certified Quality Director** – ACI  
+- ⚙️ **Certified Quality Director** *(2021)* – ACI  
 - 🧬 **Certified Six Sigma Black Belt**
 
 ---
