@@ -7,7 +7,7 @@
 
 ## 👩🏽‍💻 About Me
 
-Versatile and impact-driven **Data Engineer**, with solid experience as a **DevOps** and **MLOps Engineer**. I design, build, and optimize data infrastructure and pipelines that power analytics, applications, and AI systems in production. With 5+ years of hands-on experience, I specialize in delivering reliable, secure, and automated data and deployment workflows across **AWS**, **Azure**, and hybrid environments.
+Versatile and impact-driven **DevOps Engineer**, with solid experience as a **Security** and **MLOps Engineer**. I design, build, and optimize application infrastructure and pipelines that power analytics, applications, and AI systems in production. With 6+ years of hands-on experience, I specialize in delivering reliable, secure, and automated data and deployment workflows across **AWS**, **Azure**, and hybrid environments.
 
 My work lies at the intersection of **data infrastructure**, **pipeline automation**, and **cloud-native engineering**, ensuring that data is accessible, trustworthy, and actionable—at scale.
 
